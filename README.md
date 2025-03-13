@@ -20,3 +20,15 @@ One key takeaway: Understanding data types early makes debugging and writing cle
 Next week, I'll dive deeper into JavaScript fundamentals. If you have any tips or resources that helped you, I’d love to hear them!
 
 #LearningJavaScript #CodingJourney #CareerChange #SoftwareDevelopment #ElectricianToDeveloper
+
+
+
+Week 2 - Arrays and Operators.
+
+This week, I completed arrays and operators. Fairly straightforward concepts, but there are many built-in methods and nuances to remember! I practiced different array operations like push, pop, toString, reverse and shift/unShift (many more). I also explored operators—including arithmetic, comparison, logical, and ternary operators. Understanding how they work together is key to writing efficient code. On to the next challenge!
+
+Plenty of resources at - W3Schools.com, MDN Web Docs, and the JavaScript & jQuery book by Jon Duckett.
+
+github.com/ShaunK79 
+
+hashtag#BreakingJavascript hashtag#CodingJourney hashtag#CareerChange hashtag#ElectricianToDeveloper
