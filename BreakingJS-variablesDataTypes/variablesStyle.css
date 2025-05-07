@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    padding: 20px;
+}
+
+#number {
+    text-decoration: underline;
+    font-size: larger;
+}
+
+#string {
+    text-decoration: underline;
+    font-size: larger;
+}
+
+#boolean {
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.color-blue {
+    background-color: blue;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
+
+.color-green {
+    background-color: green;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
